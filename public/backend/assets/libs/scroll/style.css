@@ -1,0 +1,19 @@
+header{
+    background-color: antiquewhite;
+}
+footer{
+    background-color: cadetblue;
+}
+
+.end-matter-info{
+    background-color: lightgrey;
+}
+
+.main-content-end-padding{
+    height: 20px;
+    background-color: yellow;
+}
+
+.sticky-content{
+    background-color: beige;
+}
